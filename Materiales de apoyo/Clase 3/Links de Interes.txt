@@ -1,0 +1,9 @@
+Variables y tipos de datos en C#
+
+http://yeisonpx.com/es/desarrollo-de-software/c-sharp-es/variables-y-tipos-de-datos-en-c/
+
+Tipos de datos, variables y operadores en Visual C# (C Sharp).
+https://www.microsoft-visualstudio.com/2021/07/tipos-de-datos-variables-y-operadores-en-visual-csharp.html#
+
+Recurso para consultar los formatos numericos estandar de los string en C#
+https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings

@@ -1,0 +1,15 @@
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\bin\Debug\net6.0\DemoConsola.exe
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\bin\Debug\net6.0\DemoConsola.deps.json
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\bin\Debug\net6.0\DemoConsola.runtimeconfig.json
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\bin\Debug\net6.0\DemoConsola.dll
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\bin\Debug\net6.0\DemoConsola.pdb
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.csproj.AssemblyReference.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.AssemblyInfoInputs.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.AssemblyInfo.cs
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.csproj.CoreCompileInputs.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.dll
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\refint\DemoConsola.dll
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.pdb
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\DemoConsola.genruntimeconfig.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoConsola\obj\Debug\net6.0\ref\DemoConsola.dll

@@ -1,0 +1,11 @@
+Pagina de descarga de visual studio.
+https://dotnet.microsoft.com/es-es/download
+
+Pagina de descarga de LinqPad.
+https://www.linqpad.net/
+
+Recursos de aprendizaje para LinqPad.
+https://www.linqpad.net/Resources.aspx
+
+Atajos de teclados útiles para Visual Studio.
+https://learn.microsoft.com/es-es/visualstudio/ide/productivity-shortcuts?view=vs-2022

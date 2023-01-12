@@ -1,0 +1,17 @@
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\bin\Debug\net6.0-windows\DemoWinForms.exe
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\bin\Debug\net6.0-windows\DemoWinForms.deps.json
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\bin\Debug\net6.0-windows\DemoWinForms.runtimeconfig.json
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\bin\Debug\net6.0-windows\DemoWinForms.dll
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\bin\Debug\net6.0-windows\DemoWinForms.pdb
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.csproj.AssemblyReference.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.Form1.resources
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.csproj.GenerateResource.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.AssemblyInfoInputs.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.AssemblyInfo.cs
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.csproj.CoreCompileInputs.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.dll
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\refint\DemoWinForms.dll
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.pdb
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\DemoWinForms.genruntimeconfig.cache
+C:\Users\NelSon\Desktop\Capacitacion Sifizsoft\DemoConsola\DemoWinForms\obj\Debug\net6.0-windows\ref\DemoWinForms.dll
